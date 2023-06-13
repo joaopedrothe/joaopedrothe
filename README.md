@@ -1,4 +1,4 @@
-## Olá, meu nome é Joao Pedro Thereziano! 😁
+## Olá, meu nome é Joao Pedro Thereziano! 
 
 - 🔭 Sou Estagiario em Agilidade e Analise de Dados.
 - 🌱 Meus estudos são direcionados para Gestão de Projetos, Gestão de Produtos e Analise de dados!
