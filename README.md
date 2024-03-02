@@ -1,11 +1,12 @@
 ## Olá, meu nome é Joao Pedro Thereziano! 
 
 - 🔭 Data Analyst | Tech Governance in OLX Brasil
-- 🌱 Focado em me desenvolver como Data Fullstack, abrangendo conhecimento como Analytics, Engineer, Science! 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="joao_python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vaf-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+- Focado em me desenvolver como Data Fullstack, abrangendo conhecimento como Analytics, Engineer, Science! 
+- Conhecimentos em
+  - Python
+  - SQL
+  - Ferramentas de Dataviz
+  - Governança de Dados
   
 
 ##
