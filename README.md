@@ -1,7 +1,7 @@
 ## Olá, meu nome é Joao Pedro Thereziano! 
 
-- 🔭 Sou Estagiario em Agilidade e Analise de Dados.
-- 🌱 Meus estudos são direcionados para Gestão de Projetos, Gestão de Produtos e Analise de dados!
+- 🔭 Data Analyst | Tech Governance in OLX Brasil
+- 🌱 Focado em me desenvolver como Data Fullstack, abrangendo conhecimento como Analytics, Engineer, Science! 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao_python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
